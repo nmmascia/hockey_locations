@@ -1,0 +1,258 @@
+[
+  {
+    "team": "Anaheim Ducks",
+    "name": "Honda Center",
+    "location": {
+      "lat": 33.8078476,
+      "lng": -117.8764687
+    }
+  },
+  {
+    "team": "Arizona Coyotes",
+    "name": "Gila River Arena",
+    "location": {
+      "lat": 33.532074,
+      "lng": -112.2612163
+    }
+  },
+  {
+    "team": "Boston Bruins",
+    "name": "TD Garden",
+    "location": {
+      "lat": 42.366198,
+      "lng": -71.062146
+    }
+  },
+  {
+    "team": "Buffalo Sabres",
+    "name": "KeyBank Center",
+    "location": {
+      "lat": 42.8750811,
+      "lng": -78.8765439
+    }
+  },
+  {
+    "team": "Calgary Flames",
+    "name": "Scotiabank Saddledome",
+    "location": {
+      "lat": 51.0374336,
+      "lng": -114.0519341
+    }
+  },
+  {
+    "team": "Carolina Hurricanes",
+    "name": "PNC Arena",
+    "location": {
+      "lat": 35.803329,
+      "lng": -78.7218018
+    }
+  },
+  {
+    "team": "Chicago Blackhawks",
+    "name": "United Center",
+    "location": {
+      "lat": 41.8806908,
+      "lng": -87.6741759
+    }
+  },
+  {
+    "team": "Colorado Avalanche",
+    "name": "Pepsi Center",
+    "location": {
+      "lat": 39.7486519,
+      "lng": -105.0075988
+    }
+  },
+  {
+    "team": "Columbus Blue Jackets",
+    "name": "Nationwide Arena",
+    "location": {
+      "lat": 39.9692072,
+      "lng": -83.0060483
+    }
+  },
+  {
+    "team": "Dallas Stars",
+    "name": "American Airlines Center",
+    "location": {
+      "lat": 32.7903908,
+      "lng": -96.8102547
+    }
+  },
+  {
+    "team": "Detroit Red Wings",
+    "name": "Little Caesars Arena",
+    "location": {
+      "lat": 42.3411026,
+      "lng": -83.0552673
+    }
+  },
+  {
+    "team": "Edmonton Oilers",
+    "name": "Rogers Place",
+    "location": {
+      "lat": 53.54697549999999,
+      "lng": -113.4978004
+    }
+  },
+  {
+    "team": "Florida Panthers",
+    "name": "BB&T Center",
+    "location": {
+      "lat": 26.1584958,
+      "lng": -80.3255204
+    }
+  },
+  {
+    "team": "Los Angeles Kings",
+    "name": "Crypto.com Arena",
+    "location": {
+      "lat": 34.0430175,
+      "lng": -118.2672541
+    }
+  },
+  {
+    "team": "Minnesota Wild",
+    "name": "Xcel Energy Center",
+    "location": {
+      "lat": 44.9448133,
+      "lng": -93.10111739999999
+    }
+  },
+  {
+    "team": "Montreal Canadiens",
+    "name": "Bell Centre",
+    "location": {
+      "lat": 45.4960667,
+      "lng": -73.5693153
+    }
+  },
+  {
+    "team": "Nashville Predators",
+    "name": "Bridgestone Arena",
+    "location": {
+      "lat": 36.1591736,
+      "lng": -86.7784959
+    }
+  },
+  {
+    "team": "New Jersey Devils",
+    "name": "Prudential Center",
+    "location": {
+      "lat": 42.3470567,
+      "lng": -71.08174269999999
+    }
+  },
+  {
+    "team": "New York Islanders",
+    "name": "UBS Arena",
+    "location": {
+      "lat": 40.71179009999999,
+      "lng": -73.7260398
+    }
+  },
+  {
+    "team": "New York Rangers",
+    "name": "Madison Square Garden",
+    "location": {
+      "lat": 40.7505045,
+      "lng": -73.9934387
+    }
+  },
+  {
+    "team": "Ottawa Senators",
+    "name": "Canadian Tire Centre",
+    "location": {
+      "lat": 45.2969151,
+      "lng": -75.926823
+    }
+  },
+  {
+    "team": "Philadelphia Flyers",
+    "name": "Wells Fargo Center",
+    "location": {
+      "lat": 39.9012015,
+      "lng": -75.17197949999999
+    }
+  },
+  {
+    "team": "Pittsburgh Penguins",
+    "name": "PPG Paints Arena",
+    "location": {
+      "lat": 40.4393097,
+      "lng": -79.98955289999999
+    }
+  },
+  {
+    "team": "San Jose Sharks",
+    "name": "SAP Center",
+    "location": {
+      "lat": 37.3329688,
+      "lng": -121.9020006
+    }
+  },
+  {
+    "team": "St. Louis Blues",
+    "name": "Enterprise Center",
+    "location": {
+      "lat": 38.6268402,
+      "lng": -90.20267830000002
+    }
+  },
+  {
+    "team": "Tampa Bay Lightning",
+    "name": "Amalie Arena",
+    "location": {
+      "lat": 27.9427373,
+      "lng": -82.4517771
+    }
+  },
+  {
+    "team": "Toronto Maple Leafs",
+    "name": "Scotiabank Arena",
+    "location": {
+      "lat": 43.6434661,
+      "lng": -79.3790989
+    }
+  },
+  {
+    "team": "Vancouver Canucks",
+    "name": "Rogers Arena",
+    "location": {
+      "lat": 49.2778358,
+      "lng": -123.1088227
+    }
+  },
+  {
+    "team": "Vegas Golden Knights",
+    "name": "T-Mobile Arena",
+    "location": {
+      "lat": 36.102812,
+      "lng": -115.178195
+    }
+  },
+  {
+    "team": "Washington Capitals",
+    "name": "Capital One Arena",
+    "location": {
+      "lat": 38.8981675,
+      "lng": -77.02085679999999
+    }
+  },
+  {
+    "team": "Winnipeg Jets",
+    "name": "Canada Life Centre",
+    "location": {
+      "lat": 49.89265289999999,
+      "lng": -97.1434647
+    }
+  },
+  {
+    "team": "Seattle Kracken",
+    "name": "Climate Pledge Arena",
+    "location": {
+      "lat": 47.62207129999999,
+      "lng": -122.3540714
+    }
+  }
+]
